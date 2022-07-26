@@ -1,0 +1,5 @@
+org = 'org'
+tenant = 'DefaultTenant'
+url = 'https://cloud.uipath.com'
+app_id = 'app_id'
+app_secret = 'app_secret'
